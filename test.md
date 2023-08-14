@@ -8,5 +8,7 @@ This is my first test
 |Name Of Tool| Rating |
 -----------------------
 |Azure | 3 |
+----------------------
 |Maven | 2 |
+----------------------
 |Ansible | 5 |
