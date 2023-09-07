@@ -3,11 +3,11 @@ This is my first test
 ## This is My First List
 - Asure
 - Ansible
-- Maven
+- Maven tool
 # This is a Table
 |Name Of Tool| Rating |
 -----------------------
-|Azure | 3 |
+|Azure tool | 3 |
 ----------------------
 |Maven | 2 |
 ----------------------
