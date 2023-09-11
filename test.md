@@ -12,3 +12,4 @@ This is my first test
 |Maven | 2 |
 ----------------------
 |Ansible | 5 |
+this is a table
